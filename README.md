@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wns950404)](https://solved.ac/wns950404/)  
+
+
 <!--
 **Meista765/Meista765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
